@@ -1,0 +1,29 @@
+{
+  "name": "HTML",
+  "homepage": "https://github.com/sdartha/Primeiro-Responsive-full",
+  "authors": [
+    "Sdartha <darthayans@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "font-awesome": "^5.15.1",
+    "bootstrap-sass": "^3.4.1",
+    "breakpoint-sass": "^2.7.1"
+  },
+  "devDependencies": {
+    "font-awesome": "^5.15.1",
+    "bootstrap-sass": "^3.4.1",
+    "breakpoint-sass": "^2.7.1"
+  }
+}
