@@ -1,7 +1,6 @@
 {
-  "name": "psdtoweb1170px12colunas",
+  "name": "html",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +21,6 @@
     "gulp-watch": "^5.0.1",
     "watch": "^1.0.2"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "description": ""
 }
